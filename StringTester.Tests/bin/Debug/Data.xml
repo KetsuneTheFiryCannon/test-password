@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+  <User userId =""/>
+  <User userId ="1"/>
+  <User userId ="1a"/>
+  <User userId ="1aA"/>
+  <User userId ="1aA*"/>
+  <User userId ="1aA*567"/>
+</UserDetails>

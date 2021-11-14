@@ -1,0 +1,6 @@
+C:\Users\sasha\source\repos\StringTester\StringTester\bin\Debug\StringTester.dll
+C:\Users\sasha\source\repos\StringTester\StringTester\bin\Debug\StringTester.pdb
+C:\Users\sasha\source\repos\StringTester\StringTester\obj\Debug\StringTester.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\StringTester\StringTester\obj\Debug\StringTester.dll
+C:\Users\sasha\source\repos\StringTester\StringTester\obj\Debug\StringTester.pdb
+C:\Users\sasha\source\repos\StringTester\StringTester\obj\Debug\StringTester.csproj.AssemblyReference.cache
